@@ -1,18 +1,8 @@
-# Rezepte
+# 菜谱
 
-## 🍝 Haupgerichte
+## 🍝 美食列表
 
 - [麻婆豆腐](/?recipe=mapodoufu)
-
-
-## 🍔 Fast Food
-
-- [Smashed Burger](/?recipe=smashed-burger) 
-- [Nachos](/?recipe=nachos)
-- [Enchiladas](/?recipe=enchiladas)
-
-## 🥗 Beilagen
-
-- [Röstkartoffeln](/?recipe=roast-potatoes)
-- [Nudelsalat](/?recipe=pasta-salad)
-- [Arroz Rojo / Mexikanischer Reis](/?recipe=arroz-rojo)
+- [水煮肉片](/?recipe=水煮肉片) 
+- [鱼香肉丝](/?recipe=鱼香肉丝)
+- [剁椒鱼头](/?recipe=剁椒鱼头)
