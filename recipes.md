@@ -13,3 +13,12 @@
 
 - [剁椒鱼头](/?recipe=duojiaoyutou)
 - [麻辣子鸡](/?recipe=malaziji)
+- [辣椒炒肉](/?recipe=lajiaochaorou)
+
+## 🍝 粤菜
+
+- [八宝冬瓜盅](/?recipe=babaozhong)
+- [糖醋咕噜肉](/?recipe=tangcurou)
+- [香滑鱼球](/?recipe=xianghuayuqiu)
+
+
