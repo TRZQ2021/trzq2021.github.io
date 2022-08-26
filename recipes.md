@@ -12,3 +12,4 @@
 ## 🍝 湘菜
 
 - [剁椒鱼头](/?recipe=duojiaoyutou)
+- [麻辣子鸡](/?recipe=malaziji)
