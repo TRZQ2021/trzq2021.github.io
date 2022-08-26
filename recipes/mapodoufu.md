@@ -1,7 +1,7 @@
 ```
 # 麻婆豆腐
 
-![](/images/mapodoufu.jpg)
+![](/images/mapodoufu.jpeg)
 
 ## 所需原料
 

@@ -2,8 +2,6 @@
 
 ## 🍝 Haupgerichte
 
-- [Tomatensuppe](/?recipe=tomatosoup)
-- [Pizza](/?recipe=pizza)
 - [麻婆豆腐](/?recipe=mapodoufu)
 
 
