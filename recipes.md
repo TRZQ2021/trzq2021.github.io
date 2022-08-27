@@ -26,5 +26,5 @@
 
 - [东坡肉](/?recipe=dongporou)
 - [红烧肉](/?recipe=hongshaorou)
-- [红烧狮子头](/?recipe=hongshaozhizitou)
+- [红烧狮子头](/?recipe=hongshaoshizitou)
 
